@@ -16,7 +16,7 @@ public class LiveDemoController {
 	@RequestMapping("/index")	
 	public ModelAndView goIndex(){
 		ModelAndView mav = new ModelAndView();
-		mav.setViewName("index_livedemo");		
+		mav.setViewName("index_livedemo");
 		return mav;
 	}
 	

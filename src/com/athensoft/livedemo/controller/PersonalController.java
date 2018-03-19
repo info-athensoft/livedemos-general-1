@@ -10,6 +10,6 @@ public class PersonalController {
 	@RequestMapping("/j")
 	public String showCV(){
 		String name = "j";
-		return "personal/resume-"+name;
+		return "resume-"+name;
 	}
 }
