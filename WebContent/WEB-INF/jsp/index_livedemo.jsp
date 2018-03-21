@@ -129,22 +129,18 @@
 
 				<div class="container">
 
-					<h2><strong>About</strong> this e-commerce site</h2>
+					<h2><strong>About</strong> General Website</h2>
 
 					<div class="row">
 						<div class="col">
-							<h4>Product list</h4>
-							<p>Your clients may browse products listing in grid style. Product image, name, previous price, current or promotion price, on sale badge are presented precisely and clearly. Clients are also free to add their desired or interested items into shopping cart. </p>
-							<p>In addition, a side-bar section is there for visitors to search and filter by keywords, tags and etc. Last but not least, our recommendations are presented to encourage clients to make purchase. </p>
-							<h4>Shopping cart</h4>
-							<p>Clients are free to select their desired products into the shopping cart from both product list page and product detail page.</p>
-							<h4>Checkout process</h4>
-							<p>Once clients finish choosing products, they come up with summary of shopping cart. If there is no problem with sub-total and freight, clients then step into checkout process to fill up with billing address, shipping address as well as payment review. The last step is to place order with payment.</p>
-							<h4>Payment method</h4>
-							<p>Payment link is generated with the total amount of shopping cart.</p>
-							
-							<p></p>
-							<a class="open-demo-options btn btn-3d btn-xl btn-quaternary mt-3 mb-2" href="${webapp_name}/shop-sidebar.html">VIEW DEMO <i class="ml-3 fa fa-long-arrow-right"></i></a>
+							<h4>Resume - CV - Portfolio Site</h4>
+							<p>Resume - CV - Portfolio site is designed for individuals who is most likely a freelauncer, a designer, a programmer, or any other professional. A good news for selected individuals is that we offer free hosting for your one-page CV site! Cheer!</p>
+							<p><a href="${webapp_name}/j">Designer Jocelyn</a></p>
+							<h4>Corporate Site</h4>
+							<p>Corporate site is an online presence for a company which may present the company's introduction, business, products, services and more. Besides those information, corporate site also has a set of functionalities or business modules which are employed in business process for high effective output, lower cost and cooperation in team.</p>
+							<h4>Business Image Site</h4>
+							<p>Business image site is designed for individuals and organizations to present their business image to clients. Business image site comparing to corporate site is focusing on 'Image' of owner's business, it may probably be in creative design to gain more attraction. It could be with persuasive copywriting also. Of cause, it is free to upgrade with integrating useful business modules for business processing like online order system.</p>
+							<!-- <a class="open-demo-options btn btn-3d btn-xl btn-quaternary mt-3 mb-2" href="${webapp_name}/shop-sidebar.html">VIEW DEMO <i class="ml-3 fa fa-long-arrow-right"></i></a>  -->
 						</div>
 					</div>
 
