@@ -27,6 +27,7 @@
 		<property name="basenames">
 			<list>
 				<value>com/athensoft/livedemo/resources/ecommerce</value>
+				<value>com/athensoft/livedemo/resources/site</value>
 			</list>
 		</property>
 	</bean>
